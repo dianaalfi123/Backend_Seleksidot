@@ -1,0 +1,5 @@
+url aplikasi : localhost/DOT/
+
+password user : 
+username = diana
+password = 123
